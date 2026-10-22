@@ -14,6 +14,7 @@ Curating the best open-source alternatives for famous apps.
 - [Canny](#canny)
 - [cPanel](#cpanel)
 - [Facebook](#facebook)
+- [Flightradar24](#flightradar24)
 - [Github](#github)
 - [GrantHub](#granthub)
 - [Google Analytics](#google-analytics)
@@ -90,6 +91,9 @@ Curating the best open-source alternatives for famous apps.
 - [Mastodon](https://github.com/tootsuite/mastodon)
 - [Okuna](https://github.com/OkunaOrg)
 - [Convo](https://github.com/hiconvo)
+
+### [Flightradar24](https://www.flightradar24.com/)
+- [Velocity](https://github.com/AndrewCTF/velocity)
 
 ### [Github](https://github.com/)
 - [Gogs](https://github.com/gogs)
